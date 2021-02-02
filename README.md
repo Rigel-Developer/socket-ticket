@@ -1,8 +1,8 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Aplicacion de cola de tickest con Socket.io y NodeJS
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Instalar las dependencias
 
 ```
 npm install
